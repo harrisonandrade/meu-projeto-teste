@@ -1,2 +1,3 @@
 "testepratico" 
 "Linha adicionada na branch new-feature" 
+"Linha adicionada na branch new-feature" 
